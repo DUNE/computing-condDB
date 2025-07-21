@@ -1,52 +1,28 @@
-# Test lesson for DUNE
+# DUNE Conditions Database
 
-You can find the rendered page [here][lesson-template]
+The DUNE conditions database provides an archive of the state and calibration of the particle detectors needed to ensure accurate data reconstruction, analysis, and interpretation by DUNE collaborators.
 
+This tutorial offers users an opportunity to learn and practice access and query techniques to the DUNE conditions database.
 
-# this is based on the Carpentries Frameworks
-
-[![Create a Slack Account with us](https://img.shields.io/badge/Create_Slack_Account-The_Carpentries-071159.svg)](https://swc-slack-invite.herokuapp.com/)
-
-This site is based on the example lesson website from [The Carpentries](https://carpentries.org/) repertoire of lessons. 
-
-## Contributing
-
-We welcome all contributions to improve the lesson! Maintainers will do their best to help you if you have any
-questions, concerns, or experience any difficulties along the way.
-
-We'd like to ask you to familiarize yourself with our [Contribution Guide](CONTRIBUTING.md) and have a look at
-the [more detailed guidelines][lesson-example] on proper formatting, ways to render the lesson locally, and even
-how to write new episodes.
-
-Please see the current list of [issues][FIXME] for ideas for contributing to this
-repository. For making your contribution, we use the GitHub flow, which is
-nicely explained in the chapter [Contributing to a Project](http://git-scm.com/book/en/v2/GitHub-Contributing-to-a-Project) in Pro Git
-by Scott Chacon.
-Look for the tag ![good_first_issue](https://img.shields.io/badge/-good%20first%20issue-gold.svg). This indicates that the maintainers will welcome a pull request fixing this issue.  
+These materials will be used by authors for live tutorials and can be used for asynchronous study.
 
 ## Authors
 Main authors:
 
-Ana Paula Vizcaya Hernandez - avizcaya@colostate.edu
-Norm Buchanan - norm.buchanan@colostate.edu
+* Ana Paula Vizcaya Hernandez, Colorado State University
+* Norm Buchanan, Colorado State University
+
+A list of contributors to the lesson can be found in [AUTHORS](AUTHORS)
 
 ## Maintainer(s)
 
 Current maintainers of this lesson are 
 
-* David Demuth, Valley City University
+* David DeMuth, Valley City University
 * Heidi Schellman, Oregon State University
-
-
-
-## Authors
-
-A list of contributors to the lesson can be found in [AUTHORS](AUTHORS)
 
 ## Citation
 
 To cite this lesson, please consult with [CITATION](CITATION)
 
-[lesson-template]: https://dune.github.io/lesson-template
 
-[lesson-example]: https://carpentries.github.io/lesson-example
